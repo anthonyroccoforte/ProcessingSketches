@@ -24,7 +24,8 @@ void draw() {
   
   // 8. You may want to make your unicorn transparent. See these instructions: bit.ly/pretty-unicorn
   
-  // 9. When the mouse is pressed, reload the rainbow background
-  
+// 9. When the mouse is pressed, reload the rainbow background
+ 
+  if mouse is pressed(reload backgreound);
 }
 
